@@ -1,5 +1,6 @@
 # Nomos8k
 Nomos8k dataset
+### [Download: https://github.com/vYLQs6/Nomos8k/releases/tag/Nomos8k_Fixed_8502](https://github.com/vYLQs6/Nomos8k/releases/tag/Nomos8k_Fixed_8502)
 ```
 This dataset is originally compiled and packaged by Musl.
 https://github.com/muslll
