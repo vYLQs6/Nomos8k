@@ -24,7 +24,7 @@ Contains mixed and complex textures/shapes that cover most part of the image
 
 Additionally, Nomos8k has been enhanced by around ~2.5k tiles of human textures, and ~400 faces selected from the FFHQ dataset.
 
-Raw images were processed on rawtherapee using prebayer deconvolution, AMaZe and AP1 color space. Sources: Adobe-MIT-5k, RAISE, FFHQ, DIV2K, DIV8k, Flickr2k, Rawsamples, SignatureEdits, Hasselblad raw samples and Unsplash. 
+Raw images were processed on rawtherapee using prebayer deconvolution
 
 Feel free to mirror this dataset. 
 
